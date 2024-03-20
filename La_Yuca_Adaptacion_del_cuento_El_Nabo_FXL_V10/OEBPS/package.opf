@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="e9789992578643" version="3.0" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+<metadata xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:title id="id">La Yuca Adaptación del cuento El Nabo</dc:title>
+<dc:creator id="id-2">León Tolstoi</dc:creator>
+<dc:identifier id="e9789992578643">9789992578643</dc:identifier>
+<dc:language>es</dc:language>
+<dc:publisher>UNICEF República Dominicana</dc:publisher>
+<meta refines="#id" property="title-type">main</meta>
+<meta refines="#id" property="file-as">La Yuca Adaptación del cuento El Nabo</meta>
+<meta property="dcterms:modified">2023-09-20T09:06:57Z</meta>
+<meta content="cover_image" name="cover"/>
+<meta property="rendition:layout">pre-paginated</meta>
+<meta property="rendition:spread">none</meta>
+<meta property="rendition:orientation">auto</meta>
+<meta property="media:active-class">-epub-media-overlay-active</meta>
+<meta property="media:duration">0:00:00.000</meta>
+<meta property="media:duration" refines="#moPage02">0:00:00.000</meta>
+<meta property="media:duration" refines="#moPage04">0:00:00.000</meta>
+<meta property="media:duration" refines="#moPage06">0:00:00.000</meta>
+<meta property="media:duration" refines="#moPage08">0:00:00.000</meta>
+<meta property="media:duration" refines="#moPage10">0:00:00.000</meta>
+<meta property="media:duration" refines="#moPage12">0:00:00.000</meta>
+<meta property="media:duration" refines="#moPage14">0:00:00.000</meta>
+<meta property="media:duration" refines="#moPage16">0:00:00.000</meta>
+<meta property="media:duration" refines="#moPage18">0:00:00.000</meta>
+<meta property="media:duration" refines="#moPage18a">0:00:00.000</meta>
+<meta property="media:duration" refines="#moPage18b">0:00:00.000</meta>   
+</metadata>
+<manifest>
+<item properties="cover-image" id="cover_image" href="images/cover.jpg" media-type="image/jpeg"/>
+<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="page002" href="page002.xhtml" media-type="application/xhtml+xml" media-overlay="moPage02" properties="scripted"/>
+<item id="page004" href="page004.xhtml" media-type="application/xhtml+xml" media-overlay="moPage04" properties="scripted"/>
+<item id="page006" href="page006.xhtml" media-type="application/xhtml+xml" media-overlay="moPage06" properties="scripted"/>
+<item id="page008" href="page008.xhtml" media-type="application/xhtml+xml" media-overlay="moPage08" properties="scripted"/>
+<item id="page010" href="page010.xhtml" media-type="application/xhtml+xml" media-overlay="moPage10" properties="scripted"/>
+<item id="page012" href="page012.xhtml" media-type="application/xhtml+xml" media-overlay="moPage12" properties="scripted"/>
+<item id="page014" href="page014.xhtml" media-type="application/xhtml+xml" media-overlay="moPage14" properties="scripted"/>
+<item id="page016" href="page016.xhtml" media-type="application/xhtml+xml" media-overlay="moPage16" properties="scripted"/>
+<item id="page017" href="page017.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="page018" href="page018.xhtml" media-type="application/xhtml+xml" media-overlay="moPage18" properties="scripted"/>
+<item id="page018a" href="page018a.xhtml" media-type="application/xhtml+xml" media-overlay="moPage18a" properties="scripted"/>
+<item id="page018b" href="page018b.xhtml" media-type="application/xhtml+xml" media-overlay="moPage18b" properties="scripted"/>
+<item id="page020" href="page020.xhtml" media-type="application/xhtml+xml"/>
+<item id="page021" href="page021.xhtml" media-type="application/xhtml+xml"/>
+<item id="styles" href="css/Styles.css" media-type="text/css"/>
+<item id="styles1" href="css/Styles1.css" media-type="text/css"/>
+<item id="cpage017" href="css/page017.css" media-type="text/css"/>
+<item id="cpage018" href="css/page018.css" media-type="text/css"/>
+<item id="font-faces" href="css/FontSrc.css" media-type="text/css"/>
+<item id="font-faces1" href="css/FontSrc1.css" media-type="text/css"/>
+<item id="video-js-css" href="css/video-js.min.css" media-type="text/css"/>
+
+<item id="jpage017" href="js1/page017.js" media-type="text/javascript"/>
+<item id="jpage018" href="js1/page018.js" media-type="text/javascript"/>
+<item id="jpage018a" href="js1/page018a.js" media-type="text/javascript"/>
+<item id="jpage018b" href="js1/page018b.js" media-type="text/javascript"/>
+<item id="jscripts" href="js1/scripts.js" media-type="text/javascript"/>
+<item id="jvideo.min" href="js1/video.min.js" media-type="text/javascript"/>
+<item id="jvideo_scripts" href="js1/video_scripts.js" media-type="text/javascript"/>
+<item id="jvideo_scripts_18" href="js1/video_scripts_18.js" media-type="text/javascript"/>
+<item id="jvideo_scripts_18a" href="js1/video_scripts_18a.js" media-type="text/javascript"/>
+<item id="jvideo_scripts_18b" href="js1/video_scripts_18b.js" media-type="text/javascript"/>
+
+<item id="maximize-icon" href="images/up-right-and-down-left-from-center-solid.svg" media-type="image/svg+xml"/>
+<item id="play-icon" href="images/play-pause-solid.svg" media-type="image/svg+xml"/>
+<item id="hands-asl-icon" href="images/hands-asl-interpreting-solid.svg" media-type="image/svg+xml"/>
+<item id="icon_sound" href="images/icon_sound.png" media-type="image/png"/>
+<item id="img01" href="images/img01.png" media-type="image/png"/>
+<item id="img02" href="images/img02.png" media-type="image/png"/>
+<item id="back" href="images/back.png" media-type="image/png"/>
+<item id="bg001_00" href="images/bg001_00.jpg" media-type="image/jpeg"/>
+<item id="bg002_00" href="images/bg002_00.jpg" media-type="image/jpeg"/>
+<item id="bg003_00" href="images/bg003_00.jpg" media-type="image/jpeg"/>
+<item id="bg004_00" href="images/bg004_00.jpg" media-type="image/jpeg"/>
+<item id="bg005_00" href="images/bg005_00.jpg" media-type="image/jpeg"/>
+<item id="bg006_00" href="images/bg006_00.jpg" media-type="image/jpeg"/>
+<item id="bg007_00" href="images/bg007_00.jpg" media-type="image/jpeg"/>
+<item id="bg008_00" href="images/bg008_00.jpg" media-type="image/jpeg"/>
+<item id="bg009_00" href="images/bg009_00.jpg" media-type="image/jpeg"/>
+<item id="bg010_00" href="images/bg010_00.jpg" media-type="image/jpeg"/>
+<item id="bg011_00" href="images/bg011_00.jpg" media-type="image/jpeg"/>
+<item id="bg012_00" href="images/bg012_00.jpg" media-type="image/jpeg"/>
+<item id="bg013_00" href="images/bg013_00.jpg" media-type="image/jpeg"/>
+<item id="bg014_00" href="images/bg014_00.jpg" media-type="image/jpeg"/>
+<item id="bg015_00" href="images/bg015_00.jpg" media-type="image/jpeg"/>
+<item id="bg016_00" href="images/bg016_00.jpg" media-type="image/jpeg"/>
+<item id="bg017_00" href="images/bg017_00.jpg" media-type="image/jpeg"/>
+<item id="bg018_00" href="images/bg018_00.jpg" media-type="image/jpeg"/>
+<item id="bg019_00" href="images/bg019_00.jpg" media-type="image/jpeg"/>
+<item id="bg020_00" href="images/bg020_00.jpg" media-type="image/jpeg"/>
+
+<item id="abg001_00.jpg" href="images/page18/bg001_00.jpg" media-type="image/jpeg"/>
+<item id="abg002_00.jpg" href="images/page18/bg002_00.jpg" media-type="image/jpeg"/>
+<item id="abg003_00.jpg" href="images/page18/bg003_00.jpg" media-type="image/jpeg"/>
+<item id="abg004_00.jpg" href="images/page18/bg004_00.jpg" media-type="image/jpeg"/>
+<item id="abg005_00.jpg" href="images/page18/bg005_00.jpg" media-type="image/jpeg"/>
+<item id="abg006_00.jpg" href="images/page18/bg006_00.jpg" media-type="image/jpeg"/>
+<item id="abg004_00a.jpg" href="images/page18/bg004_00a.jpg" media-type="image/jpeg"/>
+<item id="cont.png" href="images/page18/cont.png" media-type="image/png"/>
+<item id="done.png" href="images/page18/done.png" media-type="image/png"/>
+<item id="exit.png" href="images/page18/exit.png" media-type="image/png"/>
+<item id="restart.png" href="images/page18/restart.png" media-type="image/png"/>
+
+
+
+<item id="f0" href="fonts/f0generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f18" href="fonts/f18generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f5" href="fonts/f5generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f6" href="fonts/f6generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f4" href="fonts/f4generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f17" href="fonts/f17generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f8" href="fonts/f8generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f12" href="fonts/f12generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f3" href="fonts/f3generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f16" href="fonts/f16generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f1" href="fonts/f1generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f14" href="fonts/f14generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f7" href="fonts/f7generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f33" href="fonts/f33generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f30" href="fonts/f30generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f19" href="fonts/f19generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f20" href="fonts/f20generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f29" href="fonts/f29generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f22" href="fonts/f22generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f25" href="fonts/f25generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f28" href="fonts/f28generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f10" href="fonts/f10generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f32" href="fonts/f32generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f23" href="fonts/f23generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f21" href="fonts/f21generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f27" href="fonts/f27generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f9" href="fonts/f9generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f11" href="fonts/f11generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f2" href="fonts/f2generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f26" href="fonts/f26generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f24" href="fonts/f24generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f31" href="fonts/f31generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f13" href="fonts/f13generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f15" href="fonts/f15generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f40" href="fonts/GOTHIC.TTF" media-type="application/vnd.ms-opentype"/>
+<item id="f41" href="fonts/GOTHICB.TTF" media-type="application/vnd.ms-opentype"/>
+
+<item id="f42" href="fonts1/f0generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f43" href="fonts1/f1generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f44" href="fonts1/f2generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f45" href="fonts1/f3generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f46" href="fonts1/f4generic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="f47" href="fonts1/f5generic.otf" media-type="application/vnd.ms-opentype"/>
+
+<item id="moPage02" href="smil/page002.smil" media-type="application/smil+xml"/>
+<item id="moPage04" href="smil/page004.smil" media-type="application/smil+xml"/>
+<item id="moPage06" href="smil/page006.smil" media-type="application/smil+xml"/>
+<item id="moPage08" href="smil/page008.smil" media-type="application/smil+xml"/>
+<item id="moPage10" href="smil/page010.smil" media-type="application/smil+xml"/>
+<item id="moPage12" href="smil/page012.smil" media-type="application/smil+xml"/>
+<item id="moPage14" href="smil/page014.smil" media-type="application/smil+xml"/>
+<item id="moPage16" href="smil/page016.smil" media-type="application/smil+xml"/>
+<item id="moPage18" href="smil/page018.smil" media-type="application/smil+xml"/>
+<item id="moPage18a" href="smil/page018a.smil" media-type="application/smil+xml"/>
+<item id="moPage18b" href="smil/page018b.smil" media-type="application/smil+xml"/>
+
+<item id="Cuento_La_Yuca-Mezcla" href="audio/Cuento_La_Yuca-Mezcla.mp3" media-type="audio/mpeg"/>
+<item id="Arrancar-1" href="audio/glossary/Arrancar-1.mp3" media-type="audio/mpeg"/>
+<item id="Arrancar" href="audio/glossary/Arrancar.mp3" media-type="audio/mpeg"/>
+<item id="Crecer-1" href="audio/glossary/Crecer-1.mp3" media-type="audio/mpeg"/>
+<item id="Crecer" href="audio/glossary/Crecer.mp3" media-type="audio/mpeg"/>
+<item id="Enorme-1" href="audio/glossary/Enorme-1.mp3" media-type="audio/mpeg"/>
+<item id="Enorme" href="audio/glossary/Enorme.mp3" media-type="audio/mpeg"/>
+<item id="Llamar-1" href="audio/glossary/Llamar-1.mp3" media-type="audio/mpeg"/>
+<item id="Llamar" href="audio/glossary/Llamar.mp3" media-type="audio/mpeg"/>
+<item id="Llegar-1" href="audio/glossary/Llegar-1.mp3" media-type="audio/mpeg"/>
+<item id="Llegar" href="audio/glossary/Llegar.mp3" media-type="audio/mpeg"/>
+<item id="Nieta-1" href="audio/glossary/Nieta-1.mp3" media-type="audio/mpeg"/>
+<item id="Nieta" href="audio/glossary/Nieta.mp3" media-type="audio/mpeg"/>
+<item id="Plantar-1" href="audio/glossary/Plantar-1.mp3" media-type="audio/mpeg"/>
+<item id="Plantar" href="audio/glossary/Plantar.mp3" media-type="audio/mpeg"/>
+<item id="Tirar-1" href="audio/glossary/Tirar-1.mp3" media-type="audio/mpeg"/>
+<item id="Tirar" href="audio/glossary/Tirar.mp3" media-type="audio/mpeg"/>
+<item id="Yuca-1" href="audio/glossary/Yuca-1.mp3" media-type="audio/mpeg"/>
+<item id="Yuca" href="audio/glossary/Yuca.mp3" media-type="audio/mpeg"/>
+
+<item id="a2-Creditos" href="audio/2-Creditos.mp3" media-type="audio/mpeg"/>
+
+<item id="wrong-answer" href="audio/activity/wrong-answer.mp3" media-type="audio/mpeg"/>
+<item id="small-applause" href="audio/activity/small-applause.mp3" media-type="audio/mpeg"/>
+<item id="Slide1" href="audio/activity/Slide1.mp3" media-type="audio/mpeg"/>
+<item id="Slide2-5" href="audio/activity/Slide2-5.mp3" media-type="audio/mpeg"/>
+<item id="Slide6" href="audio/activity/Slide6.mp3" media-type="audio/mpeg"/>
+<item id="Slide7" href="audio/activity/Slide7.mp3" media-type="audio/mpeg"/>
+<item properties="nav" id="nav" href="nav.xhtml" media-type="application/xhtml+xml"/>
+</manifest>
+<spine>
+<itemref idref="cover"/>
+<itemref idref="page002"/>
+<itemref idref="page004"/>
+<itemref idref="page006"/>
+<itemref idref="page008"/>
+<itemref idref="page010"/>
+<itemref idref="page012"/>
+<itemref idref="page014"/>
+<itemref idref="page016"/>
+<itemref idref="page017"/>
+<itemref idref="page018"/>
+<itemref idref="page018a"/>
+<itemref idref="page018b"/>
+<itemref idref="page020"/>
+<itemref idref="page021"/>
+</spine>
+</package>

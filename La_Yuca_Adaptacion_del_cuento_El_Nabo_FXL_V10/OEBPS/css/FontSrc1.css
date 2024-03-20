@@ -1,0 +1,55 @@
+@font-face {
+	font-style:normal;
+	font-weight:normal;
+	font-family:"f3generic";
+	src:url(../fonts1/f3generic.otf) format("opentype");
+}
+
+@font-face {
+	font-style:normal;
+	font-weight:normal;
+	font-family:"f2generic";
+	src:url(../fonts1/f2generic.otf) format("opentype");
+}
+
+@font-face {
+	font-style:normal;
+	font-weight:normal;
+	font-family:"f1generic";
+	src:url(../fonts1/f1generic.otf) format("opentype");
+}
+
+@font-face {
+	font-style:normal;
+	font-weight:normal;
+	font-family:"f0generic";
+	src:url(../fonts1/f0generic.otf) format("opentype");
+}
+
+@font-face {
+	font-style:normal;
+	font-weight:normal;
+	font-family:"f4generic";
+	src:url(../fonts1/f4generic.otf) format("opentype");
+}
+
+@font-face {
+	font-style:normal;
+	font-weight:normal;
+	font-family:"f5generic";
+	src:url(../fonts1/f5generic.otf) format("opentype");
+}
+
+
+@font-face {
+	font-style:normal;
+	font-weight:normal;
+	font-family:"Century Gothic";
+	src:url(../fonts/GOTHIC.TTF) format("opentype");
+}
+@font-face {
+	font-style:normal;
+	font-weight:bold;
+	font-family:"Century Gothic";
+	src:url(../fonts/GOTHICB.TTF) format("opentype");
+}

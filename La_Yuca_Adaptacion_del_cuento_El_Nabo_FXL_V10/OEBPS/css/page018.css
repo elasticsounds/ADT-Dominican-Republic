@@ -1,0 +1,281 @@
+@font-face {
+	font-style:normal;
+	font-weight:normal;
+	font-family:"Century Gothic";
+	src:url(../fonts/GOTHIC.TTF) format("opentype");
+}
+@font-face {
+	font-style:normal;
+	font-weight:bold;
+	font-family:"Century Gothic";
+	src:url(../fonts/GOTHICB.TTF) format("opentype");
+}
+.PageContainer {
+	overflow:hidden;
+	background-color:#FFFFFF;
+}
+
+.s0 {
+	white-space:pre;
+	position:absolute;
+	display:inline-block;
+}
+.s1 {
+	border:0;
+	margin:0;
+	white-space:pre;
+	position:absolute;
+	display:block;
+}
+.trn_link {
+	background-image:url('data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==');
+	position:absolute;
+        border: 0px solid black;
+}
+.trn_link1 {
+	background-image:url('data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==');
+	position:absolute;
+        border-radius: 50%;
+}
+.trn_link2 {
+	background-image:url('data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==');
+	position:absolute;
+        border-radius: 20%;
+}
+.l0 { line-height:1.00; }
+.fs0 { font-size:1400.00px; }
+.fs0a { font-size:1000.00px; }
+.t5 {
+	-webkit-transform:scale(1.536000);
+	-o-transform:scale(1.536000);
+	-ms-transform:scale(1.536000);
+	-moz-transform:scale(1.536000);
+	transform:scale(1.536000);
+}
+.t4 {
+	-webkit-transform:scale(2.046720);
+	-o-transform:scale(2.046720);
+	-ms-transform:scale(2.046720);
+	-moz-transform:scale(2.046720);
+	transform:scale(2.046720);
+}
+.t7 {
+	-webkit-transform:scale(2.048000);
+	-o-transform:scale(2.048000);
+	-ms-transform:scale(2.048000);
+	-moz-transform:scale(2.048000);
+	transform:scale(2.048000);
+}
+.t6 {
+	-webkit-transform:scale(2.814720);
+	-o-transform:scale(2.814720);
+	-ms-transform:scale(2.814720);
+	-moz-transform:scale(2.814720);
+	transform:scale(2.814720);
+}
+.t10 {
+	-webkit-transform:scale(3.072000);
+	-o-transform:scale(3.072000);
+	-ms-transform:scale(3.072000);
+	-moz-transform:scale(3.072000);
+	transform:scale(3.072000);
+}
+.t8 {
+	-webkit-transform:scale(3.073280);
+	-o-transform:scale(3.073280);
+	-ms-transform:scale(3.073280);
+	-moz-transform:scale(3.073280);
+	transform:scale(3.073280);
+}
+.t3 {
+	-webkit-transform:scale(4.608000);
+	-o-transform:scale(4.608000);
+	-ms-transform:scale(4.608000);
+	-moz-transform:scale(4.608000);
+	transform:scale(4.608000);
+}
+.t9 {
+	-webkit-transform:scale(5.118720);
+	-o-transform:scale(5.118720);
+	-ms-transform:scale(5.118720);
+	-moz-transform:scale(5.118720);
+	transform:scale(5.118720);
+}
+.t0 {
+	-webkit-transform:scale(6.144000);
+	-o-transform:scale(6.144000);
+	-ms-transform:scale(6.144000);
+	-moz-transform:scale(6.144000);
+	transform:scale(6.144000);
+}
+.t2 {
+	-webkit-transform:scale(10.625280);
+	-o-transform:scale(10.625280);
+	-ms-transform:scale(10.625280);
+	-moz-transform:scale(10.625280);
+	transform:scale(10.625280);
+}
+.t1 {
+	-webkit-transform:scale(10.626560);
+	-o-transform:scale(10.626560);
+	-ms-transform:scale(10.626560);
+	-moz-transform:scale(10.626560);
+	transform:scale(10.626560);
+}
+.o0 {
+	-webkit-transform-origin:0.00% 100.00%;
+	-o-transform-origin:0.00% 100.00%;
+	-ms-transform-origin:0.00% 100.00%;
+	-moz-transform-origin:0.00% 100.00%;
+	transform-origin:0.00% 100.00%;
+}
+.f3 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"f3generic";
+}
+
+.f2 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"f2generic";
+}
+
+.f1 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"f1generic";
+}
+.f00 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"Century Gothic";
+}
+.f0 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"f0generic";
+}
+	
+.f4 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"f4generic";
+}
+
+.f5 {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"f5generic";
+}
+
+.f6 {
+        font-weight:normal;
+        font-style:normal;
+        font-family:"Century Gothic";
+}
+
+.-epub-media-overlay-active
+{
+	color: #00FF60;
+}
+audio
+{
+        position:absolute;
+        top: -350px;
+        display:none;
+}
+.sl-trigger1 {
+	cursor: pointer;
+	position: absolute;
+}
+
+.sl-trigger2 {
+	cursor: pointer;
+    position: absolute;
+}
+.sl-trigger3 {
+	cursor: pointer;
+	position:absolute
+}
+.sl-trigger4 {
+	cursor: pointer;
+	position: absolute;
+}
+.sl-trigger5 {
+	cursor: pointer;
+	position: absolute;
+}
+
+.sl-video-container1 {
+	display: none;
+	position: absolute;
+}
+.sl-video-container2 {
+	display: none;
+	position: absolute;
+}
+.sl-video-container3 {
+	display: none;
+	position: absolute;
+}
+.sl-video-container4 {
+	display: none;
+	position: absolute;
+}
+.sl-video-container5 {
+	display: none;
+	position: absolute;
+}
+.sl-video-container1a {
+	display: none;
+	position: absolute;
+}
+.sl-video1a {
+	display: none;
+}
+
+.sl-video-container.is-maximized {
+	transform: translateX(-50%) scale(1.5) !important;
+	transform-origin: bottom;
+}
+
+.sl-video {
+	display: none;
+}
+
+.sl-video1 {
+	display: none;
+}
+.sl-video2 {
+	display: none;
+}
+.sl-video3 {
+	display: none;
+}
+.sl-video4 {
+	display: none;
+}
+.sl-video5 {
+	display: none;
+}
+.vjs-control-bar {
+	display: none !important;
+}
+
+.vjs-big-play-button {
+	display: none !important;
+}
+
+.vjs-loading-spinner .vjs-control-text {
+	display: none !important;
+}
+
+.vjs-text-track-display {
+	bottom: 10px !important;
+}
+
+.vjs-text-track-cue > * {
+	background-color: rgba(0, 0, 0, 0.8) !important;
+	font-size: 1.4em;
+}

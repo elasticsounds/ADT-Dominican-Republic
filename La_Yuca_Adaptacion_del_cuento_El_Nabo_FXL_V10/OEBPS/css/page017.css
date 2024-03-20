@@ -1,0 +1,387 @@
+.PageContainer {
+	overflow:hidden;
+	background-color:#FFFFFF;
+}
+
+.CG {
+	font-weight:normal;
+	font-style:normal;
+	font-family:"Century Gothic";
+}
+.s0 {
+	white-space:pre;
+	position:absolute;
+	display:inline-block;
+}
+.s1 {
+	border:0;
+	margin:0;
+	white-space:pre;
+	position:absolute;
+	display:block;
+}
+.trn_link {
+	background-image:url('data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==');
+	position:absolute;
+}
+div.SCOverlay {
+	z-index: 2;
+}
+.boy_1 {
+	position: absolute;
+	top: 250px;
+	right: 30px;
+	width: 178px;
+	height: 350px;
+}
+.music {
+	position: absolute;
+	top: 30px;
+	left: 60px;
+	width: 50px;
+	height: 50px;
+}
+.music1 {
+	width: 35px;
+	height: 35px;
+        margin: 0px 0px 0px 0px;
+}
+.text_1 {
+	position: absolute;
+	
+        text-align: center;
+}
+.head {
+	font-family:"Century Gothic";
+	font-size: 25px;
+        text-align: center;
+        line-height: 30px;
+        position: absolute;
+        top: 2px;
+	left: 450px;
+}
+.heada {
+	font-family:"Century Gothic";
+	font-size: 20px;
+        text-align: center;
+        line-height: 30px;
+        position: absolute;
+        top: 40px;
+	left: 480px;
+}
+.text-1 {
+	font-family:"Century Gothic";
+	font-size: 18px;
+	line-height: 32px;
+	margin: 0px 0px 0px 0px;
+        padding: 5px;
+        width: 650px;
+}
+.text {
+	font-family:"Century Gothic";
+	font-size: 18px;
+	line-height: 30px;
+	margin: 0px 0px 0px 0px;
+        padding: 5px 2px 5px 2px;
+        width: 100%;
+}
+.texta {
+        font-family:"Century Gothic";
+        font-size: 18px;
+        line-height: 32px;
+        margin: 0px 0px 0px 0px;
+        padding: 2px;
+        text-indent:0px;
+        font-weight:bold;
+        width:100%;
+}
+.textaa {
+        font-family:"Century Gothic";
+        font-size: 18px;
+        line-height: 32px;
+        margin: 0px 0px 0px 1px;
+        padding: 2px;
+        text-indent: 0px;
+        width: 100px;   
+        font-weight:bold;
+}
+.textb {
+	font-family:"Century Gothic";
+	font-size: 18px;
+	line-height: 32px;
+	margin: 0px 0px 0px 0px;
+	word-spacing: 0px;
+        padding: 2px;
+        font-weight:bold;
+}
+.text1 {
+	font-family:"Century Gothic";
+	font-size: 18px;
+	line-height: 32px;
+	margin: 0px 0px 0px 0px;
+        color: white;
+        padding: 2px;
+        font-weight:bold;
+}
+.colorb
+{
+        background-color: #5B9BD5;
+         text-align: center;
+}
+.colorb1
+{
+        background-color: #DEEAF6;
+}
+.colorw
+{
+        background-color: #FFFFFF;
+}
+.border-la
+{
+         border-right: .05em solid #5B9BD5;
+         border-bottom: .05em solid #5B9BD5;
+}
+.border-l
+{
+         border-right: .05em solid #5B9BD5;
+         border-bottom: .05em solid #5B9BD5;
+}
+.border-b
+{
+         border-bottom: .05em solid #5B9BD5;
+         padding: 0px;
+         text-align: center;
+}
+.vd
+{
+
+    cursor: pointer;
+    width: 64px;
+    aspect-ratio: auto 64 / 64;
+    height: 64px;
+}
+.tab {
+        
+	position: absolute;
+	top: 100px;
+	left: 20px;
+	right: 90px;
+        border: .05em solid #5B9BD5;
+        width: 45%;
+        border-collapse: collapse;
+}
+.tab1 {
+	position: absolute;
+	top: 100px;
+	left: 625px;
+	right: 10px;
+        border: .05em solid #5B9BD5;
+        width: 50%;
+        border-collapse: collapse;
+}
+audio {
+	position: absolute;
+	top: -300px;
+         display: none;
+}
+td
+{
+        vertical-align: top;
+}
+a { text-decoration: none; color: inherit; }
+
+.-epub-media-overlay-active
+{
+	color: red;
+}
+audio
+{
+        position:absolute;
+        top: -350px;
+        display:none;
+}
+.wd2
+{
+        width: 15%;
+        vertical-align: top;
+        text-align: left;
+}
+.wd
+{
+        width: 10%;
+        vertical-align: middle;
+        text-align: center;
+}
+.wda
+{
+        width: 55%;
+        vertical-align: middle;
+}
+.wdaa
+{
+        width: 15%;
+        vertical-align: top;
+}
+.wd1
+{
+        width: 12%;
+        vertical-align: top;
+        text-align: center;
+}
+.wd1a
+{
+        width: 12%;
+        vertical-align: middle;
+        
+}
+
+.sl-trigger {
+	cursor: pointer;
+        position: absolute;
+}
+.sl-trigger1 {
+	cursor: pointer;
+        vertical-align: middle;
+}
+.sl-trigger2 {
+	cursor: pointer;
+        vertical-align: middle;
+}
+.sl-trigger3 {
+	cursor: pointer;
+        vertical-align: middle;
+}
+.sl-trigger4 {
+	cursor: pointer;
+        vertical-align: middle;
+}
+.sl-trigger5 {
+	cursor: pointer;
+        vertical-align: middle;
+}
+.sl-trigger6 {
+	cursor: pointer;
+        vertical-align: middle;
+}
+.sl-trigger7 {
+	cursor: pointer;
+        vertical-align: middle;
+}
+.sl-trigger8 {
+	cursor: pointer;
+         vertical-align: middle;
+
+}
+.sl-trigger9 {
+	cursor: pointer;
+        vertical-align: middle;
+}
+.sl-trigger10 {
+	cursor: pointer;
+        position: absolute;
+}
+
+.sl-video-container {
+	display: none;
+	position: absolute;
+}
+.sl-video-container1 {
+	display: none;
+	position: absolute;
+}
+.sl-video-container2 {
+	display: none;
+	position: absolute;
+}
+.sl-video-container3 {
+	display: none;
+	position: absolute;
+}
+.sl-video-container4 {
+	display: none;
+	position: absolute;
+}
+.sl-video-container5 {
+	display: none;
+	position: absolute;
+}
+.sl-video-container6 {
+	display: none;
+	position: absolute;
+}
+.sl-video-container7 {
+	display: none;
+	position: absolute;
+}
+.sl-video-container8 {
+	display: none;
+	position: absolute;
+}
+.sl-video-container9 {
+	display: none;
+	position: absolute;
+}
+.sl-video-container10 {
+	display: none;
+	position: absolute;
+}
+
+.sl-video-container.is-maximized {
+	transform: translateX(-50%) scale(1.5) !important;
+	transform-origin: bottom;
+}
+
+.sl-video {
+	display: none;
+}
+.sl-video1 {
+	display: none;
+}
+.sl-video2 {
+	display: none;
+}
+.sl-video3 {
+	display: none;
+}
+.sl-video4 {
+	display: none;
+}
+.sl-video5 {
+	display: none;
+}
+.sl-video6 {
+	display: none;
+}
+.sl-video7 {
+	display: none;
+}
+.sl-video8 {
+	display: none;
+}
+.sl-video9 {
+	display: none;
+}
+.sl-video10 {
+	display: none;
+}
+
+.vjs-control-bar {
+	display: none !important;
+}
+
+.vjs-big-play-button {
+	display: none !important;
+}
+
+.vjs-loading-spinner .vjs-control-text {
+	display: none !important;
+}
+
+.vjs-text-track-display {
+	bottom: 10px !important;
+}
+
+.vjs-text-track-cue > * {
+	background-color: rgba(0, 0, 0, 0.8) !important;
+	font-size: 1.4em;
+}
