@@ -20,17 +20,17 @@ You need a desktop computer, tablet or mobile device with a web browser like goo
 
 ### Steps
 
-1. Navigate to [https://www.bookfusion.com/libraries/MOEYI](https://www.bookfusion.com/libraries/MINERD)
+1. Navigate to https://www.bookfusion.com/libraries/MINERD
 2. Choose a book to play. The ADTs have a green label that says 'interactive'.
-   - For "La capa del Emperador" go to [https://www.bookfusion.com/books/2592584-harriet-hen-and-the-hawk-unicef](https://www.bookfusion.com/books/3966731-la-capa-del-emperador)
-   - For "La Yuca" go to [https://www.bookfusion.com/books/2592566-my-brain-is-my-boss-unicef](https://www.bookfusion.com/books/3865843-la-yuca-adaptacion-del-cuento-el-nabo)
+   - For "La capa del Emperador" go to https://www.bookfusion.com/books/3966731-la-capa-del-emperador
+   - For "La Yuca" go to https://www.bookfusion.com/books/3865843-la-yuca-adaptacion-del-cuento-el-nabo
 
 You may also use the iOS app to view the book. The iOS app offers offline functionality.
 [https://apps.apple.com/us/app/bookfusion/id1141834096](https://apps.apple.com/us/app/bookfusion/id1141834096) 
 
 1. Download the app.
 2. Create an account.
-3. Navigate to the [https://www.bookfusion.com/libraries/MOEYI](https://www.bookfusion.com/libraries/MINERD) page.
+3. Navigate to the https://www.bookfusion.com/libraries/MINERD page.
 
 ## Play ePubs offline on desktop with Thorium
 
