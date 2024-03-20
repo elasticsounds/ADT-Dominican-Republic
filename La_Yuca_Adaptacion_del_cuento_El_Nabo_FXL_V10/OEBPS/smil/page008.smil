@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+<body>
+<par id="id1"><text src="../page008.xhtml#word1"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:16.560" clipEnd="0:00:16.890"/></par>
+<par id="id2"><text src="../page008.xhtml#word2"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:16.890" clipEnd="0:00:17.160"/></par>
+<par id="id3"><text src="../page008.xhtml#word3"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:17.160" clipEnd="0:00:17.280"/></par>
+<par id="id4"><text src="../page008.xhtml#word4"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:17.280" clipEnd="0:00:17.610"/></par>
+<par id="id5"><text src="../page008.xhtml#word5"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:17.610" clipEnd="0:00:17.820"/></par>
+<par id="id6"><text src="../page008.xhtml#word6"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:17.820" clipEnd="0:00:17.880"/></par>
+<par id="id7"><text src="../page008.xhtml#word7"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:17.880" clipEnd="0:00:19.170"/></par>
+<par id="id8"><text src="../page008.xhtml#word8"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:19.170" clipEnd="0:00:19.740"/></par>
+<par id="id9"><text src="../page008.xhtml#word9"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:19.740" clipEnd="0:00:19.920"/></par>
+<par id="id10"><text src="../page008.xhtml#word10"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:19.920" clipEnd="0:00:20.550"/></par>
+<par id="id11"><text src="../page008.xhtml#word11"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:20.550" clipEnd="0:00:20.970"/></par>
+<par id="id12"><text src="../page008.xhtml#word12"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:20.970" clipEnd="0:00:21.150"/></par>
+<par id="id13"><text src="../page008.xhtml#word13"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:21.150" clipEnd="0:00:21.480"/></par>
+<par id="id14"><text src="../page008.xhtml#word14"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:21.480" clipEnd="0:00:22.460"/></par>
+<par id="id15"><text src="../page008.xhtml#word15"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:22.460" clipEnd="0:00:28.140"/></par>
+</body>
+</smil>

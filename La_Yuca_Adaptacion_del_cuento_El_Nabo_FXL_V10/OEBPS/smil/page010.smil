@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" version="3.0">
+<body>
+<par id="id1"><text src="../page010.xhtml#word1"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:28.210" clipEnd="0:00:29.130"/></par>
+<par id="id2"><text src="../page010.xhtml#word2"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:29.130" clipEnd="0:00:29.670"/></par>
+<par id="id3"><text src="../page010.xhtml#word3"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:29.670" clipEnd="0:00:29.760"/></par>
+<par id="id4"><text src="../page010.xhtml#word4"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:29.760" clipEnd="0:00:29.880"/></par>
+<par id="id5"><text src="../page010.xhtml#word5"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:29.880" clipEnd="0:00:30.270"/></par>
+<par id="id6"><text src="../page010.xhtml#word6"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:30.270" clipEnd="0:00:30.870"/></par>
+<par id="id7"><text src="../page010.xhtml#word7"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:30.870" clipEnd="0:00:31.260"/></par>
+<par id="id8"><text src="../page010.xhtml#word8"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:31.260" clipEnd="0:00:31.680"/></par>
+<par id="id9"><text src="../page010.xhtml#word9"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:31.680" clipEnd="0:00:31.980"/></par>
+<par id="id10"><text src="../page010.xhtml#word10"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:31.980" clipEnd="0:00:32.160"/></par>
+<par id="id11"><text src="../page010.xhtml#word11"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:32.160" clipEnd="0:00:33.270"/></par>
+<par id="id12"><text src="../page010.xhtml#word12"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:33.270" clipEnd="0:00:33.570"/></par>
+<par id="id13"><text src="../page010.xhtml#word13"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:33.570" clipEnd="0:00:33.840"/></par>
+<par id="id14"><text src="../page010.xhtml#word14"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:33.840" clipEnd="0:00:34.110"/></par>
+<par id="id15"><text src="../page010.xhtml#word15"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:34.110" clipEnd="0:00:34.230"/></par>
+<par id="id16"><text src="../page010.xhtml#word16"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:34.230" clipEnd="0:00:34.380"/></par>
+<par id="id17"><text src="../page010.xhtml#word17"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:34.380" clipEnd="0:00:35.280"/></par>
+<par id="id18"><text src="../page010.xhtml#word18"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:35.280" clipEnd="0:00:35.610"/></par>
+<par id="id19"><text src="../page010.xhtml#word19"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:35.610" clipEnd="0:00:36.240"/></par>
+<par id="id20"><text src="../page010.xhtml#word20"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:36.240" clipEnd="0:00:36.540"/></par>
+<par id="id21"><text src="../page010.xhtml#word21"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:36.540" clipEnd="0:00:37.320"/></par>
+<par id="id22"><text src="../page010.xhtml#word22"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:37.320" clipEnd="0:00:37.770"/></par>
+<par id="id23"><text src="../page010.xhtml#word23"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:37.770" clipEnd="0:00:37.980"/></par>
+<par id="id24"><text src="../page010.xhtml#word24"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:37.980" clipEnd="0:00:38.130"/></par>
+<par id="id25"><text src="../page010.xhtml#word25"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:38.130" clipEnd="0:00:39.260"/></par>
+<par id="id26"><text src="../page010.xhtml#word26"/><audio src="../audio/Cuento_La_Yuca-Mezcla.mp3" clipBegin="0:00:39.260" clipEnd="0:00:52.890"/></par>
+</body>
+</smil>
